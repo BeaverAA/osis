@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/newboba/Desktop/labs/sp1/main.cpp
+iostream
+-
+fstream
+-
+dirent.h
+-
+cstdio
+-
+cstring
+-
+vector
+-
+
